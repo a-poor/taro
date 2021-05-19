@@ -2,7 +2,7 @@
 
 _created by Austin Poor_
 
-A library for rectangular data transformation in Python.
+A package for repeatable rectangular data transformations in Python.
 
 
 
